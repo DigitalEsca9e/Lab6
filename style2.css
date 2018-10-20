@@ -1,0 +1,41 @@
+body{background-color:green;
+		margin:auto 150;
+	}
+header{height:100;
+		font-weight:bold;
+		background-color:red;
+		text-align:center;
+		font-size:36;
+	}
+footer{height: 80;
+		background-color:yellow;
+		position:relative;
+		bottom:215;
+		font-weight:bold;
+	}
+#p1{
+	background-color:pink;
+	padding-top: 5px;
+	height:100;
+	position:relative;
+	bottom:50px;
+	margin-right:600;
+	font-weight:bold;
+	}
+#p2{
+	background-color:orange;
+	padding-top: 5px;
+	height:100;
+	position:relative;
+	bottom:171px;
+	margin-left:400;
+	font-weight:bold;
+	}
+#p3{
+	background-color:blue;
+	height:600;
+	position:relative;
+	bottom:200;
+	font-weight:bold;
+	}
+	

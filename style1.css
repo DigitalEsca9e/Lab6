@@ -1,0 +1,29 @@
+ body{ margin: 0 auto ;
+		background-color:black;
+		}
+header{background-color:red;
+		text-align: center;
+		padding:20px;
+		color:white;
+		font-size: 36;
+		font-weight:bold;
+		height: 65px;
+		
+		}
+footer{background-color:blue;
+		padding-top:5px;
+		vertical-align: 20px;
+		color:white;
+		position:relative;
+		bottom:34px;
+		height:100px;
+		}
+p{background-color:green;
+	padding-top:5px;
+	margin: 1 auto;
+	color:white;
+	height:600px;
+	position:relative;
+	bottom:17px;
+	}
+		
